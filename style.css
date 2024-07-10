@@ -1,0 +1,26 @@
+ul{
+    display: flex;
+    list-style-type: none;
+}
+button{
+    margin-right: 10px;
+}
+body{
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.d5abZmfJPkKGb9AxJ6-gFgHaE7&pid=Api&P=0&h=180);
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+nav{
+    background-color: black;
+    margin: 0px;
+}
+table{
+    background-color: gray;
+    margin: auto;
+}
+tr{
+    font-size: 30px;
+}
+div{
+    background-color: palevioletred;
+}
